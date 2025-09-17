@@ -39,13 +39,6 @@ proyecto_creditos/
 
 ## Instalación y ejecución
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/Zakora99/proyecto_creditos.git
-cd proyecto_creditos
-```
-
 2. Crear y activar un entorno virtual:
 
 ```bash
